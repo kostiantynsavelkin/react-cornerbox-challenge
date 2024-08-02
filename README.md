@@ -58,7 +58,15 @@ npm run storybook
 ```
 
 Available Stories:
+```
 Default: A basic CornerBox with all corners set to square.
+```
+```
 MixedCorners: A CornerBox with a mix of angled, square, and boxed corners.
+```
+```
 AllAngles: A CornerBox with all corners set to angled.
+```
+```
 AllBoxed: A CornerBox with all corners set to boxed.
+```
